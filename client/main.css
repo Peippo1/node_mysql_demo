@@ -1,0 +1,20 @@
+body {
+    background-color: #393c83;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #email {
+    border-radius: 5px;
+    border: 1px #44d9e6;
+    padding: 3px;
+    outline: none;
+  }
+  
+  #number {
+    color: #3dc4d0;
+  }
+  
